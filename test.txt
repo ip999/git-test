@@ -1,8 +1,5 @@
 1. hello
 2. world
-<<<<<<< HEAD
 3. new line
 4. last line
-=======
-3. !
->>>>>>> 53edc021d80f968a3f575cc83f693b7a42e7d2d0
+
