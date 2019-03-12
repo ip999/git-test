@@ -4,3 +4,4 @@ rabbit
 sheep
 cow
 fox
+hamster
